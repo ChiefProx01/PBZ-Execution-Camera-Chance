@@ -1,0 +1,25 @@
+PBZ Execution Camera Chance 1.1.0 -- third-party components
+
+UE4SS: Unreal Engine 4/5 Scripting System
+Upstream: https://github.com/UE4SS-RE/RE-UE4SS
+Copyright (c) 2022 Narknon; contributors credited in the upstream project.
+License: MIT. Full original license retained in UE4SS-LICENSE.txt and in
+the embedded payload at ue4ss/LICENSE, installed beside UE4SS.dll.
+
+PBZ compatibility package / configuration: Kintaro
+Source: https://github.com/KintaroModding/ue4ss
+Release: https://github.com/KintaroModding/ue4ss/releases/tag/v3.0.1-1183-gcdbc0b66
+Original archive: phantombladezero_ue4ss_v3.0.1-1183-gcdbc0b66.zip
+Original archive SHA256:
+5328F91D13BD93F080FAFAE9E7C07790AE838D65E94545831D6676C4C1870D4D
+Previously verified against the release author's SHA256SUMS.txt.
+Compatibility target: Steam build 26266538 / CL-301524_JKS-17219.
+The source package describes its configuration as MIT-licensed.
+
+The original runtime binaries and signature/layout files are embedded.
+ConsoleEnabled and GuiConsoleEnabled are disabled in packaged settings.
+Bundled sample/gameplay mods, HUD mods and diagnostic scripts are omitted.
+Only PBZExecutionCameraChance is installed by this manager.
+
+Microsoft .NET Framework is a Windows prerequisite and is not redistributed
+in this archive. Original dependency licenses apply to their components.
